@@ -2,7 +2,7 @@
 """One Word for Your Wi-Fi — make.fun entry.
 
 The entry word is "Hermit": my Wi-Fi only exists in one corner of the
-house, by the router, and refuses to come out anywhere else.
+house, by the router, and refuses to venture anywhere else.
 """
 
 import os
